@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.3.18",
+  "download_url": "https://drive.google.com/uc?export=download&id=1y3l2qOcN1O7uSVrCf9aaRrhRJzkcDAA-",
+  "release_notes": "- Rock weathering override dropdown\n- PRJ file merge/import feature\n- Fixed Generate Lab Data stale reference bug\n- Soil profile pagination for large projects\n- Y-axis optimization for soil profiles",
+  "release_date": "2026-02-05",
+  "critical": false,
+  "min_supported_version": "1.0.0"
+}
