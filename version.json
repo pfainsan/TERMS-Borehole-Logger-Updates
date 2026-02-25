@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.4.0",
+  "download_url": "https://drive.google.com/file/d/1y3l2qOcN1O7uSVrCf9aaRrhRJzkcDAA-/view?usp=drive_link",
+  "release_notes": "- Open .prj files from Explorer (double-click file association)\n- Fix multi-summary-sheet lab data parsing for per-BH Excel layouts\n- Summary sheet parser fix: always iterates all summary sheets\n- Inno Setup installer for streamlined distribution\n- GPS accuracy display from BHD mobile app import",
+  "release_date": "2026-02-25",
+  "critical": false,
+  "min_supported_version": "1.0.0"
+}
