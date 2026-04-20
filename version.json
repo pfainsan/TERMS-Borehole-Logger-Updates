@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.4.3",
+  "download_url": "https://drive.google.com/file/d/1y3l2qOcN1O7uSVrCf9aaRrhRJzkcDAA-/view?usp=drive_link",
+  "release_notes": "- Fix: hammer-weight (H.W.) intervals are now plotted at N=0 in the combined soil profile instead of N=100. Refusal and rock remain at N=100.",
+  "release_date": "2026-04-19",
+  "critical": false,
+  "min_supported_version": "1.0.0"
+}
