@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.5.0",
+  "download_url": "https://drive.google.com/file/d/1y3l2qOcN1O7uSVrCf9aaRrhRJzkcDAA-/view?usp=drive_link",
+  "release_notes": "- Fix: license activation now tolerates clock skew between issuer and activator (resolved Carlo/Seoul UTC+9 failure). validate_license_key() searches ±2 years of base dates.\n- Fix: 'Recover Autosave' dialog no longer fires on every launch. Autosave files are now deleted after a successful save or clean close.\n- New: change log captures finer-grained edits. Interval creation/edits/deletions, USCS classifications, generated lab data, and per-test data (triaxial/consolidation/compaction/CBR) are now recorded in the .prj change_log with full licensee attribution.",
+  "release_date": "2026-05-11",
+  "critical": false,
+  "min_supported_version": "1.0.0"
+}
