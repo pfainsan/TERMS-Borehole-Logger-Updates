@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.5.3",
+  "download_url": "https://drive.google.com/file/d/1y3l2qOcN1O7uSVrCf9aaRrhRJzkcDAA-/view?usp=drive_link",
+  "release_notes": "- CRITICAL FIX: Generated Excel reports were missing ALL grain-size / Atterberg graphs on the SS sheets (and Excel showed a 'Removed Records' repair dialog when opening the report). Reports now generate with every graph intact.\n- Fix: Excel no longer reports repaired/removed merged cells on the borehole log sheets.\n- New 260629 report templates (Government and Private) are bundled and selectable in the Excel export dialog.",
+  "release_date": "2026-07-14",
+  "critical": true,
+  "min_supported_version": "1.5.3"
+}
