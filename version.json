@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.7.5",
+  "download_url": "https://drive.google.com/file/d/1y3l2qOcN1O7uSVrCf9aaRrhRJzkcDAA-/view?usp=drive_link",
+  "release_notes": "CONSOLIDATION GRAPH TEXTBOXES\n\nOn machines upgraded from a build earlier than June 2026, the \"Pc = ...\" callout and the details box on the CONSOL_GR sheets still showed the template's values (Pc = 0.45, BH-1) in 1.7.4. Fresh installs were not affected.\n\nThe cause was a leftover lxml folder from the old build, which the installer had never removed. Its presence changed how the workbook was written, and the program's substitution did not recognise that form. The substitution now handles both forms, and the installer removes the leftover folders from old builds (lxml, sqlalchemy, greenlet, bcrypt, markupsafe) so every machine writes reports the same way.\n\nIf you generated a report with 1.7.4, regenerate it to get the correct textboxes. Project files are unaffected.",
+  "release_date": "2026-09-03",
+  "critical": false,
+  "min_supported_version": "1.7.2"
+}
