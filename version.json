@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.7.11",
+  "download_url": "https://drive.google.com/file/d/1y3l2qOcN1O7uSVrCf9aaRrhRJzkcDAA-/view?usp=drive_link",
+  "release_notes": "- Core recovery and RQD are both reported against the 1.5 m core run; an RQD typed as a percentage now prints as that percentage\n- RQD can be entered as 0 (prints 0%); clear the box for 'not recorded' (prints blank)\n- AGS4 export: TCR now matches the log and is present for imported cores",
+  "release_date": "2026-10-07",
+  "critical": false,
+  "min_supported_version": "1.7.9"
+}
