@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.8.0",
+  "download_url": "https://drive.google.com/file/d/1y3l2qOcN1O7uSVrCf9aaRrhRJzkcDAA-/view?usp=drive_link",
+  "release_notes": "- An open project is locked: it can't be moved, renamed or overwritten while open (it can still be copied)\n- Double-clicking a project that is already open brings its window to the front; an empty window opens the next project you double-click\n- Drag and drop a .prj onto the window to open it\n- Project Status brought up to date: test pits are no longer flagged for SPT, field files show 'In progress', new warnings for missing GPS, color and core recovery; Details lists the depths\n- Fixed: a new window could offer, and delete, another open window's autosave; cancelling Save As from the unsaved-changes prompt no longer discards the work",
+  "release_date": "2026-10-30",
+  "critical": false,
+  "min_supported_version": "1.7.9"
+}
