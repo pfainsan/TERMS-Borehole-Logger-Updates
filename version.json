@@ -1,0 +1,8 @@
+{
+  "latest_version": "1.9.1",
+  "download_url": "https://drive.google.com/file/d/1y3l2qOcN1O7uSVrCf9aaRrhRJzkcDAA-/view?usp=drive_link",
+  "release_notes": "- Samples copied by Assign by Layer now weigh like the lab's sample they copy (same dishes, soil amounts and 0.1 g balance), so they no longer look like another lab's sheet beside it; saved copies are re-weighed when the project is opened, with LL, PL, PI and the USCS symbol unchanged",
+  "release_date": "2026-11-25",
+  "critical": false,
+  "min_supported_version": "1.7.9"
+}
